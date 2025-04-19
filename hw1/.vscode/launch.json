@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/michael/Desktop/sysu/work/2025work/第一次实验作业",
+      "program": "/Users/michael/Desktop/sysu/work/2025work/第一次实验作业/build/Debug/outDebug"
+    }
+  ]
+}
